@@ -13,13 +13,9 @@
 
     <distributionManagement>
         <repository>
-            <id>deployment-okkero</id>
-            <url>http://nexus.okkero.com/repository/maven-releases/</url>
+            <id>naluwan</id>
+            <url>https://repo.naluwan.net/snapshot</url>
         </repository>
-        <snapshotRepository>
-            <id>deployment-okkero</id>
-            <url>http://nexus.okkero.com/repository/maven-snapshots/</url>
-        </snapshotRepository>
     </distributionManagement>
 
     <properties>
